@@ -1,2 +1,2 @@
 # gitaround
-demo purposes
+- Handan says that git is easy.
